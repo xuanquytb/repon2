@@ -1,0 +1,21 @@
+/* nếu dùng là class thì sẽ css với dấu "."
+nếu dùng là id thì sẽ css với dấu "#" */
+*{
+    box-sizing: border-box;
+}
+
+.box1{
+    width: 250px;
+    height: 90px;
+    background-color: aqua;
+    padding: 20px;
+    text-align: center;
+    border: 10px solid red;
+    margin-bottom: 0px;
+}
+.box2{
+    width: 250px;
+    height: 90px;
+    background-color: rgb(77, 229, 22);
+    margin-top: 50px;
+}
